@@ -2,7 +2,7 @@
 
 | Challenges  |
 | ------------- |
-| [ret2win](https://github.com/DJumanto/ROP-Emporium-WU/tree/main/badchars)  |
+| [ret2win](https://github.com/DJumanto/ROP-Emporium-WU/tree/main/ret2win)  |
 | [split](https://github.com/DJumanto/ROP-Emporium-WU/tree/main/split)  |
 | [callme](https://github.com/DJumanto/ROP-Emporium-WU/tree/main/callme)  |
 | [write4](https://github.com/DJumanto/ROP-Emporium-WU/tree/main/write4)  |
