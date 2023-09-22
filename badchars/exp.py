@@ -8,7 +8,7 @@ context.bits = 64
 
 '''
 1. Set r12 to hnci0vzv r13 to writable address, r14 to 2
-r15 to writeable address
+r15 to 1
 
 2. write r12 to r13 value
 
