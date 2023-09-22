@@ -12,7 +12,7 @@ r15 to writeable address
 
 2. write r12 to r13 value
 
-3. xor r15 by lower value of r14  so it will become flag.txt
+3. substract r15 by lower value of r14  so it will become flag.txt
 
 4. Pop RDI assign to r14 memory target
 
